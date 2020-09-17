@@ -10563,3 +10563,13 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.label {
+  font-size: 7px;
+}
+
+.list-inline-item {
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
